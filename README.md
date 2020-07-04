@@ -5,6 +5,7 @@ It covers a wide range of topics from version control with git to CI with Jenkin
 Install Docker from https://www.docker.com/
 
 ## Version Control in Action with git
+    ## for linux just use apt or yum or your falvour install go , vim etc
 * Install homebrew from https://brew.sh
 * Install go via `brew install go`
 * Install go via `brew install vim`
